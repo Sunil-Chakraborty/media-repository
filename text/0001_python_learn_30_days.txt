@@ -1,0 +1,3 @@
+https://learn.aifortechies.in/login/
+user : to.sunilc@gmail.com
+pwd: aifortechies@123
